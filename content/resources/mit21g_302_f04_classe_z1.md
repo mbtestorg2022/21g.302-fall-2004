@@ -4,6 +4,7 @@ description: This resource contains the information regarding activit de classe 
   de vacances.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/21g-302-french-ii-fall-2004/fb449fd1b44f1a98d1eaae2929789d8e_MIT21G_302_F04_classe_Z1.pdf
 file_type: application/pdf
+parent_uid: f6f344e6-345b-7457-a14d-cfec8862a219
 resourcetype: Document
 title: 'Activit de Classe: Prparatifs de vacances'
 uid: fb449fd1-b44f-1a98-d1ea-ae2929789d8e

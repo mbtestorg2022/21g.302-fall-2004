@@ -4,6 +4,7 @@ description: This resource contains the information regarding activite de Classe
   famille Osbourne.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/21g-302-french-ii-fall-2004/48f2867f678169f4bd02874b122a18ab_MIT21G_302_F04_Osbourne_C.pdf
 file_type: application/pdf
+parent_uid: f6f344e6-345b-7457-a14d-cfec8862a219
 resourcetype: Document
 title: 'Activite de Classe: Notre famille Osbourne'
 uid: 48f2867f-6781-69f4-bd02-874b122a18ab
